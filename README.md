@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/Vishwa2706/Vishwa2706/assets/134477500/ae1e2166-690e-4c3d-b12f-443a39679926"/>
+<img align="right" alt="coding" width="400" src="https://github.com/Vishwa2706/Vishwa2706/assets/134477500/a726406f-1a65-4d6e-b8fc-abbe2404ae11.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwa2706&label=Profile%20views&color=0e75b6&style=flat" alt="vishwa2706" /> </p>
 
