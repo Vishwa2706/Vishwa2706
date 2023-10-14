@@ -38,8 +38,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwa2706&show_icons=true&locale=en" alt="vishwa2706" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa2706&" alt="vishwa2706" /></p>
-
 <hr/>
 
 <h3 align="center">
