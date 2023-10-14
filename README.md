@@ -1,4 +1,4 @@
-<img src="https://github.com/Vishwa2706/Vishwa2706/assets/134477500/901c90f4-af1f-41cb-8eb3-39e1c4f6ef47" height=300px width=1000px/>
+<img src="https://github.com/Vishwa2706/Vishwa2706/assets/134477500/901c90f4-af1f-41cb-8eb3-39e1c4f6ef47" height=200px width=1000px/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vishwa!;" />
