@@ -4,19 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vishwa!;" />
 </h1>
 
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Web and App developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://github.com/Vishwa2706/Vishwa2706/assets/134477500/f64adf0a-7e94-473e-a62e-770a99b45226"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwa2706&label=Profile%20views&color=0e75b6&style=flat" alt="vishwa2706" /> </p>
 
-- 🔭 I’m currently working on **Backend projetcs**
+- 🔭 I’m currently working on **Flutter Projects**
 
-- 🌱 I’m currently learning **Backend ,API**
+- 🌱 I’m currently learning **Flutter and Dart**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vishwa2706](https://github.com/Vishwa2706)
 
-- 💬 Ask me about **react,express and jQuery**
+- 💬 Dm me for **projects and portfolios**
 
 - 📫 How to reach me **vishwajayath3@gmail.com**
 
