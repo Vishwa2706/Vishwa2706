@@ -10,9 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwa2706&label=Profile%20views&color=0e75b6&style=flat" alt="vishwa2706" /> </p>
 
-- 🔭 I’m currently working on **Flutter Projects**
+- 🔭 I’m currently working on **ML Projects**
 
-- 🌱 I’m currently learning **Flutter and Dart**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vishwa2706](https://github.com/Vishwa2706)
 
