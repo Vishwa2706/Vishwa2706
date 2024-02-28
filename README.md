@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vishwa2706](https://github.com/Vishwa2706)
 
-- 💬 Dm me for **projects and portfolios**
+- 💬 Dm me for **webApps and portfolios**
 
 - 📫 How to reach me **vishwajayath3@gmail.com**
 
