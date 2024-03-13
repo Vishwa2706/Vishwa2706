@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vishwa!;" />
 </h1>
 
-<h3 align="center">A passionate Web and App developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://github.com/Vishwa2706/Vishwa2706/assets/134477500/f64adf0a-7e94-473e-a62e-770a99b45226"/>
 
 
