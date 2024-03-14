@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwa2706&label=Profile%20views&color=0e75b6&style=flat" alt="vishwa2706" /> </p>
 
-- 🔭 I’m currently working on **ML Projects**
+- 🔭 I’m currently working on **Machine learning Projects**
 
 - 🌱 I’m currently learning **Machine Learning and Artificial intelligence**
 
